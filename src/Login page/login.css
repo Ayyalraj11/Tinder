@@ -1,0 +1,87 @@
+.container{
+    background-color: white;
+    width: 500px;
+    height: 785px;
+    margin-left: -1px;
+    box-shadow: 2px 5px 5px #F2F5F7;
+    
+}
+.img1{
+    padding-top: 320px;
+}
+.text{
+    font-weight: 700;
+    color:rgb(33, 43, 54);
+    font-size: 32px;
+    position: absolute;
+    padding-left: 40px;
+    padding-top: 240px;
+}
+.text1{
+    font-weight: 700;
+    font-size: 25px;
+    color:rgb(33, 43, 54);
+    padding-left: 780px;
+    margin-top: -610px;
+}
+.text2{
+    color:rgb(33, 43, 54);
+    padding-left: 780px;
+    padding-top: 14px;
+    font-size: 15px;
+}
+.text3{
+    color: rgb(32, 101, 209);
+    font-weight: 500;
+    text-decoration: underline;
+}
+.gmail{
+   width: 138px;
+    height: 45px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid rgba(145, 158, 171, 0.32);
+    border-radius: 6px;
+}
+.fb{
+    width: 138px;
+    height: 45px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid rgba(145, 158, 171, 0.32);
+    border-radius: 6px;
+
+}
+.twit{
+    width: 138px;
+    height: 45px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid rgba(145, 158, 171, 0.32);
+    border-radius: 6px;
+}
+.button{
+   display: flex;
+   padding-left: 780px;
+   padding-top: 40px;
+}
+.button>button{
+    margin: 5px;
+    transition-duration: 1s;
+}
+.button>button:hover{
+    background-color:lightgray;
+}
+.google{
+    color: orangered;
+    font-size: 20px;
+}
+.face{
+    color:   rgb(24, 119, 242);
+    font-size: 20px;
+    font-weight: 800;
+}
+.tw{
+    color:  rgb(28, 156, 234);
+    font-size: 17px;
+}
